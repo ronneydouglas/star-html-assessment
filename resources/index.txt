@@ -1,0 +1,5 @@
+    
+Footer Navigation Links :
+- Text : "Home",       href: "index.html"
+- Text : "Characters", href: "characters.html"
+- Text : "Season One", href: "season_one.html"
